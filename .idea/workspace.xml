@@ -49,7 +49,7 @@
       <file leaf-file-name="DeepClone.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/one/DeepClone.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.5774278">
+            <state vertical-scroll-proportion="0.4199475">
               <caret line="11" column="20" selection-start-line="11" selection-start-column="20" selection-end-line="11" selection-end-column="20" />
               <folding>
                 <element signature="e#238#239#0" expanded="true" />
@@ -709,12 +709,12 @@
       <updated>1498208365381</updated>
       <workItem from="1498208373755" duration="1008000" />
       <workItem from="1498394691274" duration="4000" />
-      <workItem from="1498524741808" duration="7504000" />
+      <workItem from="1498524741808" duration="8099000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8516000" />
+    <option name="totallyTimeSpent" value="9111000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -824,7 +824,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/one/DeepClone.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.5774278">
+        <state vertical-scroll-proportion="0.4199475">
           <caret line="11" column="20" selection-start-line="11" selection-start-column="20" selection-end-line="11" selection-end-column="20" />
           <folding>
             <element signature="e#238#239#0" expanded="true" />
